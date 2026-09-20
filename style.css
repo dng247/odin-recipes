@@ -15,27 +15,19 @@ h1 {
 .list {
     max-width: 500px;
     margin: 0 auto;
-    text-align: center;
-}
-.recipe1 {
-    display: inline-block;
-    box-sizing: border-box;
 
-    width: calc(40%);
-    padding: 6px;
-
-    background-color: white;
-    color: saddlebrown;
-    font-weight: 700;
-    border: 3px solid lightskyblue;
-    margin-right: 12px;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
 }
+.recipe1,
 .recipe2 {
-    display: inline-block;
     box-sizing: border-box;
-
-    width: calc(40%);
+    width: 40%;
     padding: 6px;
+
+    text-align: center;
+    font-size: 18px;
 
     background-color: white;
     color: saddlebrown;
