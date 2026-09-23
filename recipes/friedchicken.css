@@ -1,0 +1,21 @@
+h1 {
+    width: 200px;
+    padding: 6px;
+    margin: 6px;
+
+    text-align: center;
+    font-size: 18px;
+
+    background-color: white;
+    color: saddlebrown;
+    font-weight: 700;
+    border: 3px solid lightskyblue;
+}
+img {
+    padding: 6px;
+    margin: 6px;
+}
+h2 {
+    padding: 6px;
+    margin: 6px;
+}
