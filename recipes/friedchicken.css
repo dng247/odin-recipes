@@ -11,11 +11,6 @@ h1 {
     font-weight: 700;
     border: 3px solid lightskyblue;
 }
-img {
-    padding: 6px;
-    margin: 6px;
-}
-h2 {
-    padding: 6px;
-    margin: 6px;
+p {
+    font-weight: 700;
 }
